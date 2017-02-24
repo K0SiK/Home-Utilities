@@ -19,7 +19,7 @@ namespace GitHub_test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            int Ahoj = 1;
         }
     }
 }
